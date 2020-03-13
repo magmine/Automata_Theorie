@@ -110,3 +110,5 @@ if __name__ == '__main__':
     k = int(input("tapez k: "))
     table = a.reconnaissance_all_up_to_k(0, k, '', s0)
     print(table)
+
+    ::change1
